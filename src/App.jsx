@@ -42,8 +42,7 @@ function App() {
       <Title>Raphael Cardoso</Title>
       <Subtitle>Desenvolvedor front-end.</Subtitle>
       <p>
-        Este site está em construção. <br /> Enquanto isso, me acompanhe nas
-        redes:
+        Site em construção. <br /> Me acompanhe nas redes:
       </p>
 
       <BoxIcon></BoxIcon>
