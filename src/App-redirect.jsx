@@ -1,5 +1,5 @@
 function Redirect() {
-  window.location.href = "https://www.youtube.com/watch?v=G7KNmW9a75Y";
+  return "Teste";
 }
 
 export default Redirect;
