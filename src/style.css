@@ -23,12 +23,13 @@ img {
 }
 
 a {
+  max-width: 90%;
   padding: 1rem 2rem;
   margin-top: 3rem;
   background-color: #bd93f9;
   color: #f8f8f2;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.5rem;
   border-radius: 2rem;
   transition: all 1s;
   animation: pulse 3s infinite;
